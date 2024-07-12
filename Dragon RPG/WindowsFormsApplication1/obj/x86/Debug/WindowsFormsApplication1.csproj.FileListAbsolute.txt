@@ -1,0 +1,18 @@
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\kurs\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Dragon RPG\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
